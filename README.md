@@ -24,7 +24,7 @@ The following directories and files are included in the project:
 
 Below is the diagram of the multiplier circuit:
 
-![Circuit Diagram](Polygon-mod3/Screenshot 2024-07-16 121625.png)
+![Circuit Diagram](assets/circuit_diagram.png)
 
 ## Circuit Code
 
@@ -117,3 +117,4 @@ To get started with this project, follow these steps:
 ## Additional Information
 
 This project utilizes the Hardhat framework for compiling, testing, and deploying the smart contracts. Ensure that you have the required dependencies installed and properly configured before running the commands.
+
