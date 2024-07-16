@@ -125,7 +125,3 @@ To get started with this project, follow these steps:
 ## Additional Information
 
 This project utilizes the Hardhat framework for compiling, testing, and deploying the smart contracts. Ensure that you have the required dependencies installed and properly configured before running the commands.
-
----
-
-Replace `https://github.com/your-username/your-repository-name.git` with the actual URL of your GitHub repository. Also, make sure that the `Screenshot_2024-07-16_121625.png` file is placed in the `assets` folder within your repository.
