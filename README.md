@@ -24,11 +24,11 @@ The following directories and files are included in the project:
 
 Below is the diagram of the multiplier circuit:
 
-![Circuit Diagram](assets /Screenshot 2024-07-16 121625.png)
+![Screenshot 2024-07-16 121625](https://github.com/user-attachments/assets/1eae0ec0-2d51-4384-ba6d-7e0b8b157774)
 
 ## Circuit Code
 
-The main circuit code is located in `Polygon-mod3/circuits/multiplier/circuit.circom`. Below is the content of the circuit file:
+The main circuit code is located at <a href="Polygon-mod3/circuits/multiplier/circuit.circom">Polygon-mod3/circuits/multiplier/circuit.circom</a> Below is the content of the circuit file:
 
 ```circom
 pragma circom 2.0.0;
@@ -99,17 +99,25 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
 
+   ```bash
+   git clone https://github.com/your-username/your-repository-name.git
+   cd your-repository-name
+   ```
+
 2. **Install dependencies**:
+
    ```bash
    npm install
    ```
 
 3. **Compile the circuit**:
+
    ```bash
    npx hardhat compile
    ```
 
 4. **Run tests**:
+
    ```bash
    npx hardhat test
    ```
@@ -118,3 +126,6 @@ To get started with this project, follow these steps:
 
 This project utilizes the Hardhat framework for compiling, testing, and deploying the smart contracts. Ensure that you have the required dependencies installed and properly configured before running the commands.
 
+---
+
+Replace `https://github.com/your-username/your-repository-name.git` with the actual URL of your GitHub repository. Also, make sure that the `Screenshot_2024-07-16_121625.png` file is placed in the `assets` folder within your repository.
